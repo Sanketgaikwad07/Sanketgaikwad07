@@ -10,9 +10,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketg-7" alt="sanketg-7" /></a> </p>
 
-- 🔭 I’m currently working on **Homey-Bites**
 
-- 🌱 I’m currently learning **Js,python**
+
 
 - 📫 How to reach me **sanketgaikwad1820@gmail.com**
 
