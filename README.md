@@ -1,6 +1,9 @@
-![image alt](https://github.com/SanketG-7/SanketG-7/blob/437661134a75dd5d4be998e79c6a979685fc0373/Make%20your%20README.png)
+
   
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi, I'M Sanket</h1>
+<P>
+  
+</P>
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
