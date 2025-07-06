@@ -2,12 +2,12 @@
   
 <h1 align="center">Hi, I'M Sanket</h1>
 <P>
-  💫 ABOUT ME
+ <h1> 💫 ABOUT ME</h1>
 As a Java Backend Developer, I love building scalable and secure systems that solve real-world problems. I'm passionate about clean code, backend logic, and crafting REST APIs that just work.
 
 🌱 Currently Learning: Spring Security, JWT, and Microservices architecture.
 
-🔧 What I Do
+<h1>What I Do</h1> 
 🛠 Backend Development: I build RESTful APIs using Java, Spring Boot, and MySQL — with a focus on clean architecture and efficient logic.
 🔐 Authentication & Security: From login systems to JWT tokens, I ensure user data stays protected.
 ⚙️ Project Building: I'm developing Homey, a full-stack tiffin service app with features like order tracking, feedback, and user management.
