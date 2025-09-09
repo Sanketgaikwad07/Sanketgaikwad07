@@ -3,9 +3,8 @@
 <h1 align="center">Hi, I'M Sanket</h1>
 <P>
  <h1> 💫 ABOUT ME</h1>
-As a Java Backend Developer, I love building scalable and secure systems that solve real-world problems. I'm passionate about clean code, backend logic, and crafting REST APIs that just work.
-
-🌱 Currently Learning: Spring Security, JWT, and Microservices architecture.
+Master's student in Computer Science with a strong interest in backend development.
+ Looking for an entry-level role to apply my skills and grow as a software engineer
 
 <h1>What I Do</h1> 
 🛠 Backend Development: I build RESTful APIs using Java, Spring Boot, and MySQL — with a focus on clean architecture and efficient logic.
