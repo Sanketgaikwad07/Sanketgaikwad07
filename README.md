@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'M Sanket</h1>
 <P>
  <h1> 💫 ABOUT ME</h1>
-Master's student in Computer Science with a strong interest in backend development.
+Master's student in Computer Science with a strong interest in Software developer.
  Looking for an entry-level role to apply my skills and grow as a software engineer
 
 <h1>What I Do</h1> 
-🛠 Backend Development: I build RESTful APIs using Java, Spring Boot, and MySQL — with a focus on clean architecture and efficient logic.
+🛠 Software Developer: I build RESTful APIs using Java, Spring Boot, and MySQL — with a focus on clean architecture and efficient logic.
 🔐 Authentication & Security: From login systems to JWT tokens, I ensure user data stays protected.
 ⚙️ Project Building: I'm developing Homey, a full-stack tiffin service app with features like order tracking, feedback, and user management.
 🧠 Core Java Mastery: OOP principles, exception handling, collections, multithreading — Java is my playground.
