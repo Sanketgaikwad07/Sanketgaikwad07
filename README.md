@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'M Sanket</h1>
 <P>
  <h1> 💫 ABOUT ME</h1>
-Master's student in Computer Science with a strong interest in Software developer.
+Welcome to my personal coding playground! Master's student in Computer Science with a strong interest in Software developer.
  Looking for an entry-level role to apply my skills and grow as a software engineer
 
 <h1>What I Do</h1> 
