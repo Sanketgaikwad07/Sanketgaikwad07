@@ -1,6 +1,7 @@
 
   
 <h1 align="center">Hi, I'M Sanket</h1>
+
 <P>
  <h1> 💫 ABOUT ME</h1>
 Welcome to my personal coding playground! I've been fascinated by  backend development, API design, and solving real-world problems through clean and reliable code.
