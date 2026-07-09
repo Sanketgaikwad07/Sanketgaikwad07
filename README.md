@@ -18,15 +18,6 @@ I enjoy turning complex business requirements into simple, efficient, and mainta
 🔐 **Develop Secure Applications**
 From authentication and authorization to API security, I build systems that protect user data and follow modern security practices.
 
-🏗️ **Design Clean Architecture**
-I believe great software starts with clean code, modular architecture, and maintainable design that teams can easily extend.
-
-⚡ **Optimize Performance**
-I continuously improve application speed, database queries, and backend logic to deliver smooth user experiences.
-
-🤝 **Build End-to-End Solutions**
-Whether it's developing REST APIs, integrating databases, or connecting frontend and backend, I enjoy building complete, production-ready applications.
-
 📚 **Learn, Adapt, Improve**
 Technology evolves every day, and so do I. I continuously explore new tools, frameworks, and best practices to become a better engineer.
 
