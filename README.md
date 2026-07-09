@@ -7,12 +7,35 @@
 Welcome to my personal coding playground! I've been fascinated by  backend development, API design, and solving real-world problems through clean and reliable code.
  Looking for an entry-level role to apply my skills and grow as a software engineer
 
-<h1>What I Do</h1> 
-🛠 Software Developer: I build RESTful APIs using Java, Spring Boot, and MySQL — with a focus on clean architecture and efficient logic.
-🔐 Authentication & Security: From login systems to JWT tokens, I ensure user data stays protected.
-⚙️ Project Building: I'm developing Homey, a full-stack tiffin service app with features like order tracking, feedback, and user management.
-🧠 Core Java Mastery: OOP principles, exception handling, collections, multithreading — Java is my playground.
-📁 Version Control & Tools: Daily driver tools include Git, Postman, IntelliJ, Maven, and JPA/Hibernate.
+# What I Do
+
+🚀 **Build Scalable Software**
+I design and develop reliable backend systems that are fast, secure, and built to grow with real-world applications.
+
+💡 **Solve Real Problems**
+I enjoy turning complex business requirements into simple, efficient, and maintainable software solutions.
+
+🔐 **Develop Secure Applications**
+From authentication and authorization to API security, I build systems that protect user data and follow modern security practices.
+
+🏗️ **Design Clean Architecture**
+I believe great software starts with clean code, modular architecture, and maintainable design that teams can easily extend.
+
+⚡ **Optimize Performance**
+I continuously improve application speed, database queries, and backend logic to deliver smooth user experiences.
+
+🤝 **Build End-to-End Solutions**
+Whether it's developing REST APIs, integrating databases, or connecting frontend and backend, I enjoy building complete, production-ready applications.
+
+📚 **Learn, Adapt, Improve**
+Technology evolves every day, and so do I. I continuously explore new tools, frameworks, and best practices to become a better engineer.
+
+🎯 **Think Like an Engineer**
+I don't just write code—I analyze problems, evaluate trade-offs, and build practical solutions that deliver real business value.
+
+🌱 **Collaborate & Grow**
+I enjoy working with teams, learning from experienced developers, contributing to projects, and continuously improving both my technical and communication skills.
+
 
 🚀 Always curious, always building. Let's connect and create something impactful!
 
@@ -31,7 +54,7 @@ Welcome to my personal coding playground! I've been fascinated by  backend devel
 
 
 - 📫 How to reach me **sanketgaikwad1820@gmail.com**
-- My PORTFOLIO:https://sanketwork.lovable.app
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
